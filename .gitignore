@@ -168,6 +168,7 @@ cython_debug/
 *.iml
 
 # project temp
+configs/
 data/
 output/
 external/
